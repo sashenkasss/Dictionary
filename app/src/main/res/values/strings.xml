@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Инглиш изи</string>
+    <string name="action_add">Add</string>
+    <string name="button">Button</string>
+    <string name="action_delete">Delete</string>
+    <string name="empty_text">Заполните все поля</string>
+</resources>
